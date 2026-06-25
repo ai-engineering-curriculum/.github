@@ -24,11 +24,12 @@ This org is the **AI engineering** vertical of a three-part curriculum family: i
 
 ## 🔗 Curriculum Family
 
-This is one of three sibling orgs covering the full landscape of AI work:
+This is one of four sibling orgs covering the full landscape of AI work — organized by what you *do* relative to a model:
 
-- **[AI Infrastructure Curriculum](https://github.com/ai-infra-curriculum)** — building & operating the platforms (Kubernetes, GPUs, training, serving, MLOps, IaC, SRE).
-- **AI Engineering Curriculum** *(you are here)* — building agentic AI products.
-- **[AI Governance Curriculum](https://github.com/ai-governance-curriculum)** — governing, securing & assuring AI (security, compliance, evaluation, safety).
+- **[AI Infrastructure Curriculum](https://github.com/ai-infra-curriculum)** — *run* the platforms (Kubernetes, GPUs, training infra, serving, MLOps, IaC, SRE).
+- **[ML Engineering Curriculum](https://github.com/ml-engineering-curriculum)** — *build & train* the models (data, fine-tuning, pretraining, RLHF, evals).
+- **AI Engineering Curriculum** *(you are here)* — *build with* the models (agentic apps, RAG, multi-agent systems).
+- **[AI Governance Curriculum](https://github.com/ai-governance-curriculum)** — *govern & assure* AI (security, compliance, evaluation, safety).
 
 ## 🤝 Contributing
 
