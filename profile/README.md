@@ -22,6 +22,10 @@ This org is the **AI engineering** vertical of a three-part curriculum family: i
 | **Senior Agentic AI Engineer** | Staff/Lead (L40) | Eval & observability infra, multi-agent at scale, reliability, cost, leadership | [📘 Learning](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-solutions) |
 | **Agentic Systems Architect** | Design (L48) | Orchestration topology, memory/context architecture, guardrails, governance, agentic dev-platforms | [📘 Learning](https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/agentic-systems-architect-solutions) |
 
+## 📈 Career Progression
+
+See the **[Career Progression Guide](https://github.com/ai-engineering-curriculum/.github/blob/main/CAREER_PROGRESSION.md)** for the full ladder — level descriptions, skills matrix, compensation ranges, promotion criteria, and specialist tracks.
+
 ## 🔗 Curriculum Family
 
 This is one of four sibling orgs covering the full landscape of AI work — organized by what you *do* relative to a model:
