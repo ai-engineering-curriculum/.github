@@ -12,7 +12,7 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/orgs/ai-engineering-curriculum/discussions)
 [![Repositories: 22](https://img.shields.io/badge/repositories-22-blue.svg)](https://github.com/orgs/ai-engineering-curriculum/repositories)
 
-🌐 **Website:** [ai-engineering-curriculum.github.io](https://ai-engineering-curriculum.github.io/) · part of the [AI Career Curriculum](https://ai-curriculum-project.github.io/)
+🌐 **Website:** [ai-engineering-curriculum.github.io](https://ai-engineering-curriculum.github.io/) · part of the [AI Career Curriculum](https://ai-curriculum-project.github.io/) · 📊 [Completeness matrix](https://github.com/ai-engineering-curriculum/.github/blob/main/COMPLETENESS_MATRIX.md)
 
 ## 🎯 Overview
 
