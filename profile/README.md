@@ -10,7 +10,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/orgs/ai-engineering-curriculum/discussions)
-[![Repositories: 24](https://img.shields.io/badge/repositories-24-blue.svg)](https://github.com/orgs/ai-engineering-curriculum/repositories)
+[![Repositories: 22](https://img.shields.io/badge/repositories-22-blue.svg)](https://github.com/orgs/ai-engineering-curriculum/repositories)
+
+🌐 **Website:** [ai-engineering-curriculum.github.io](https://ai-engineering-curriculum.github.io/) · part of the [AI Career Curriculum](https://ai-curriculum-project.github.io/)
 
 ## 🎯 Overview
 
@@ -18,19 +20,20 @@ This org covers **AI engineering** — *building with* the models: LLM applicati
 
 **At a glance:**
 
-- 🏢 **24 curriculum repositories** (12 learning + 12 solutions)
-- 📚 **12 role tracks**
+- 🏢 **22 curriculum repositories** (11 learning + 11 solutions)
+- 📚 **11 role tracks**
 - 🤖 **Agentic track** of four rungs: Agentic AI Developer → Engineer → Senior → Systems Architect
 
 ## 🔗 Curriculum Family
 
-One of 5 sibling orgs in the **AI Career Curriculum ecosystem**, organized by what you *do* relative to a model:
+One of 6 sibling orgs in the **AI Career Curriculum ecosystem**, organized by what you *do* relative to a model:
 
-- **[AI Infrastructure Curriculum](https://github.com/ai-infra-curriculum)** — *run* the platforms (Kubernetes, GPUs, training infra, serving, MLOps, IaC, SRE).
-- **[ML Engineering Curriculum](https://github.com/ml-engineering-curriculum)** — *build & train* the models (data, fine-tuning, pretraining, RLHF, evals).
+- **[AI Infrastructure Curriculum](https://github.com/ai-infra-curriculum)** — *run* the platforms (Kubernetes, GPUs, training infra, serving, MLOps, IaC, SRE). ([site](https://ai-infra-curriculum.github.io/))
+- **[ML Engineering Curriculum](https://github.com/ml-engineering-curriculum)** — *build & train* the models (data, fine-tuning, pretraining, RLHF, evals). ([site](https://ml-engineering-curriculum.github.io/))
 - **AI Engineering Curriculum** *(you are here)* — *build with* the models (agentic apps, RAG, multi-agent systems).
-- **[AI Governance Curriculum](https://github.com/ai-governance-curriculum)** — *govern & assure* AI (security, compliance, evaluation, safety).
-- **[AI Startup Curriculum](https://github.com/ai-startup-curriculum)** — *turn it into a company* — the startup operating school for technical founders (functional curricula × role pathways × stages).
+- **[AI Governance Curriculum](https://github.com/ai-governance-curriculum)** — *govern & assure* AI (security, compliance, evaluation, safety). ([site](https://ai-governance-curriculum.github.io/))
+- **[AI Startup Curriculum](https://github.com/ai-startup-curriculum)** — *turn it into a company* — the startup operating school for technical founders (functional curricula × role pathways × stages). ([site](https://ai-startup-curriculum.github.io/))
+- **[AI Workforce Curriculum](https://github.com/ai-workforce-curriculum)** — *work alongside* the models (AI-assisted engineering, analysis, product, and team leadership). ([site](https://ai-workforce-curriculum.github.io/))
 
 ---
 
@@ -41,7 +44,6 @@ One of 5 sibling orgs in the **AI Career Curriculum ecosystem**, organized by wh
 | Role | Focus | Repositories |
 |------|-------|--------------|
 | **Agentic AI Developer** | LLM fundamentals, prompting & structured output, tool calling, retrieval basics, first agent, shipping | [📘 Learning](https://github.com/ai-engineering-curriculum/agentic-ai-developer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/agentic-ai-developer-solutions) |
-| **LLM Application Developer** | Prompting, tool calling, streaming & async, model selection, prompt caching, retrieval, minimal evals | [📘 Learning](https://github.com/ai-engineering-curriculum/llm-application-developer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/llm-application-developer-solutions) |
 
 ### 🔵 Engineer (L30)
 
