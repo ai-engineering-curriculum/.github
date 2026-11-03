@@ -10,7 +10,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/orgs/ai-engineering-curriculum/discussions)
-[![Repositories: 18](https://img.shields.io/badge/repositories-18-blue.svg)](https://github.com/orgs/ai-engineering-curriculum/repositories)
+[![Repositories: 24](https://img.shields.io/badge/repositories-24-blue.svg)](https://github.com/orgs/ai-engineering-curriculum/repositories)
 
 ## 🎯 Overview
 
@@ -18,8 +18,8 @@ This org covers **AI engineering** — *building with* the models: LLM applicati
 
 **At a glance:**
 
-- 🏢 **18 curriculum repositories** (9 learning + 9 solutions)
-- 📚 **9 role tracks**
+- 🏢 **24 curriculum repositories** (12 learning + 12 solutions)
+- 📚 **12 role tracks**
 - 🤖 **Agentic track** of four rungs: Agentic AI Developer → Engineer → Senior → Systems Architect
 
 ## 🔗 Curriculum Family
@@ -52,12 +52,15 @@ One of 5 sibling orgs in the **AI Career Curriculum ecosystem**, organized by wh
 | **Applied AI Engineer** | AI feature design, production prompting, RAG in product, orchestration, product agents, guardrails | [📘 Learning](https://github.com/ai-engineering-curriculum/applied-ai-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/applied-ai-engineer-solutions) |
 | **RAG & Retrieval Engineer** | Ingestion & chunking, embeddings, vector DBs & ANN tuning, learning-to-rank, hybrid retrieval, reranking | [📘 Learning](https://github.com/ai-engineering-curriculum/rag-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/rag-engineer-solutions) |
 | **Forward Deployed AI Engineer** | Customer discovery, integrating into enterprise stacks, evals on customer data, demo→production, field feedback loops | [📘 Learning](https://github.com/ai-engineering-curriculum/forward-deployed-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/forward-deployed-engineer-solutions) |
+| **Voice & Multimodal Agent Engineer** | STT/TTS & speech-to-speech, latency & turn-taking, telephony/WebRTC, vision inputs, voice & multimodal evals | [📘 Learning](https://github.com/ai-engineering-curriculum/voice-agent-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/voice-agent-engineer-solutions) |
 
 ### ⭐ Senior & Architect (L40+)
 
 | Role | Focus | Repositories |
 |------|-------|--------------|
+| **Agent Platform Engineer** | Internal agent platforms: harnesses, tool & MCP registries, sandboxing, permissions, shared evals & tracing, paved roads | [📘 Learning](https://github.com/ai-engineering-curriculum/agent-platform-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/agent-platform-engineer-solutions) |
 | **Senior Agentic AI Engineer** | Agent systems from an architecture, eval & observability infra, multi-agent at scale, reliability, cost | [📘 Learning](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-solutions) |
+| **AI Engineering Manager** | Hiring & leveling AI roles, planning non-deterministic work, eval-driven delivery, vendor risk, teams that use coding agents | [📘 Learning](https://github.com/ai-engineering-curriculum/ai-engineering-manager-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/ai-engineering-manager-solutions) |
 | **Agentic Systems Architect** | When not to use an agent, orchestration & memory architecture, eval harnesses, security, durable execution | [📘 Learning](https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning) · [✅ Solutions](https://github.com/ai-engineering-curriculum/agentic-systems-architect-solutions) |
 
 ---
