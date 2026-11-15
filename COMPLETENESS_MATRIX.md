@@ -1,23 +1,23 @@
 # Completeness Matrix: AI Engineering Curriculum
 
-_Generated 2026-11-08 by `aicg org completeness`._
+_Generated 2026-11-15 by `aicg org completeness`._
 
-**Overall: 68%** across 11 role tracks · 116/119 modules complete · 151/538 exercises solved
+**Overall: 75%** across 11 role tracks · 118/119 modules complete · 227/538 exercises solved
 
 | Role | Level | Modules | Learning | Solutions | Overall | Status |
 |---|---|---|---|---|---|---|
 | [Agentic AI Developer](https://github.com/ai-engineering-curriculum/agentic-ai-developer-learning/blob/main/COMPLETENESS_MATRIX.md) | L20 | 9/9 | 100% | 84% | `█████████░` 92% | In progress |
-| [AI Evaluation Engineer](https://github.com/ai-engineering-curriculum/ai-eval-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 11/12 | 92% | 17% | `█████░░░░░` 54% | In progress |
+| [AI Evaluation Engineer](https://github.com/ai-engineering-curriculum/ai-eval-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 11/12 | 92% | 43% | `███████░░░` 67% | In progress |
 | [Agentic AI Engineer](https://github.com/ai-engineering-curriculum/agentic-ai-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 9/9 | 100% | 100% | `██████████` 100% | Complete |
-| [Applied AI Engineer](https://github.com/ai-engineering-curriculum/applied-ai-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 12/12 | 100% | 14% | `██████░░░░` 57% | In progress |
-| [RAG & Retrieval Engineer](https://github.com/ai-engineering-curriculum/rag-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 13/13 | 100% | 16% | `██████░░░░` 58% | In progress |
+| [Applied AI Engineer](https://github.com/ai-engineering-curriculum/applied-ai-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 12/12 | 100% | 66% | `████████░░` 83% | In progress |
+| [RAG & Retrieval Engineer](https://github.com/ai-engineering-curriculum/rag-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L30 | 13/13 | 100% | 66% | `████████░░` 83% | In progress |
 | [Forward Deployed AI Engineer](https://github.com/ai-engineering-curriculum/forward-deployed-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L35 | 12/12 | 100% | 0% | `█████░░░░░` 50% | In progress |
 | [Voice & Multimodal Agent Engineer](https://github.com/ai-engineering-curriculum/voice-agent-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L35 | 12/12 | 100% | 0% | `█████░░░░░` 50% | In progress |
 | [Agent Platform Engineer](https://github.com/ai-engineering-curriculum/agent-platform-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L40 | 13/13 | 100% | 0% | `█████░░░░░` 50% | In progress |
 | [Senior Agentic AI Engineer](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning/blob/main/COMPLETENESS_MATRIX.md) | L40 | 5/5 | 100% | 100% | `██████████` 100% | Complete |
-| [AI Engineering Manager](https://github.com/ai-engineering-curriculum/ai-engineering-manager-learning/blob/main/COMPLETENESS_MATRIX.md) | L45 | 10/12 | 83% | 0% | `████░░░░░░` 42% | In progress |
+| [AI Engineering Manager](https://github.com/ai-engineering-curriculum/ai-engineering-manager-learning/blob/main/COMPLETENESS_MATRIX.md) | L45 | 12/12 | 100% | 0% | `█████░░░░░` 50% | In progress |
 | [Agentic Systems Architect](https://github.com/ai-engineering-curriculum/agentic-systems-architect-learning/blob/main/COMPLETENESS_MATRIX.md) | L48 | 10/10 | 100% | 100% | `██████████` 100% | Complete |
-| **Total** | | **116/119** | | | **68%** | |
+| **Total** | | **118/119** | | | **75%** | |
 
 ## How this is calculated
 
